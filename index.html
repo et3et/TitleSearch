@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Project Title Search</title>
+  <style>
+    body { font-family: Arial; padding: 20px; }
+    input { width: 300px; padding: 10px; }
+    li { margin: 5px 0; }
+  </style>
+</head>
+<body>
+
+  <h2>Project Title Search</h2>
+
+  <input 
+    type="text" 
+    id="searchBox" 
+    placeholder="Search project title..."
+    onkeyup="searchTitles()"
+  />
+
+  <ul id="results"></ul>
+
+  <script>
+    let titles = [];
+
+    // Load JSON data
+    fetch('titles.json')
+      .then(res => res.json())
+      .then(data => {
+        titles = data;
+        displayResults(titles);
+      });
+
+    function searchTitles() {
+      const query = document.getElementById('searchBox').value.toLowerCase();
+
+      const filtered = titles.filter(item =>
+        item.title.toLowerCase().includes(query)
+      );
+
+      displayResults(filtered);
+    }
+
+    function displayResults(data) {
+      const results = document.getElementById('results');
+      results.innerHTML = '';
+
+      data.forEach(item => {
+        const li = document.createElement('li');
+        li.textContent = item.title;
+        results.appendChild(li);
+      });
+    }
+  </script>
+
+</body>
+</html>

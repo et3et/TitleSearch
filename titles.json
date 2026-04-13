@@ -1,0 +1,902 @@
+[
+  {
+    "No":1.0,
+    "Title":"The Argricultural Guidance System for Improving Argircultural Productivity in West Bago",
+    "Academic Year":null
+  },
+  {
+    "No":2.0,
+    "Title":"Teakwood Cultivation Management System for Economic and Environmental Benefits",
+    "Academic Year":null
+  },
+  {
+    "No":3.0,
+    "Title":"Delights Unveiled Gorceries and Artifacts of Bago Region",
+    "Academic Year":null
+  },
+  {
+    "No":4.0,
+    "Title":"Tourism Industry of Bago Historic Cultural Area",
+    "Academic Year":null
+  },
+  {
+    "No":5.0,
+    "Title":"Website of Good Second Hand Car Spares Part for Cars within Pyay Distinct",
+    "Academic Year":null
+  },
+  {
+    "No":6.0,
+    "Title":"Pioneer Education Portal",
+    "Academic Year":null
+  },
+  {
+    "No":7.0,
+    "Title":"NETFLIXIFY",
+    "Academic Year":null
+  },
+  {
+    "No":8.0,
+    "Title":"Geospatial Analysis of Forest Change in Pyay Distinct",
+    "Academic Year":null
+  },
+  {
+    "No":9.0,
+    "Title":"Mawlamyine, Tagaung, Lashio, Beithano Museum",
+    "Academic Year":null
+  },
+  {
+    "No":10.0,
+    "Title":"Online Pharmacy Selling System",
+    "Academic Year":null
+  },
+  {
+    "No":11.0,
+    "Title":"Laptop Selling Management System",
+    "Academic Year":null
+  },
+  {
+    "No":12.0,
+    "Title":"Book Shop Management System",
+    "Academic Year":null
+  },
+  {
+    "No":13.0,
+    "Title":"Zoo Management System",
+    "Academic Year":null
+  },
+  {
+    "No":14.0,
+    "Title":"Beauty Palor Management System",
+    "Academic Year":null
+  },
+  {
+    "No":15.0,
+    "Title":"Wedding Dress Rental Management System",
+    "Academic Year":null
+  },
+  {
+    "No":16.0,
+    "Title":"Diary Products Selling System",
+    "Academic Year":null
+  },
+  {
+    "No":17.0,
+    "Title":"Online Fashion Gallery System",
+    "Academic Year":null
+  },
+  {
+    "No":18.0,
+    "Title":"School Management System",
+    "Academic Year":null
+  },
+  {
+    "No":19.0,
+    "Title":"Universities's Journal Website for Academic Paper",
+    "Academic Year":null
+  },
+  {
+    "No":20.0,
+    "Title":"Survey Forms Creation Website",
+    "Academic Year":null
+  },
+  {
+    "No":21.0,
+    "Title":"Teacher Evaluation System",
+    "Academic Year":null
+  },
+  {
+    "No":22.0,
+    "Title":"Assets Management System",
+    "Academic Year":null
+  },
+  {
+    "No":23.0,
+    "Title":"RentEase (Property Renting Application)",
+    "Academic Year":null
+  },
+  {
+    "No":24.0,
+    "Title":"Baby House Store System",
+    "Academic Year":null
+  },
+  {
+    "No":25.0,
+    "Title":"Online Bakey Shop",
+    "Academic Year":null
+  },
+  {
+    "No":26.0,
+    "Title":"CARGO Logositics System",
+    "Academic Year":null
+  },
+  {
+    "No":27.0,
+    "Title":"Employee Leave Management System",
+    "Academic Year":null
+  },
+  {
+    "No":28.0,
+    "Title":"Online Car Rental System",
+    "Academic Year":null
+  },
+  {
+    "No":29.0,
+    "Title":"Course Repository",
+    "Academic Year":null
+  },
+  {
+    "No":30.0,
+    "Title":"WebMentor Online Learning System",
+    "Academic Year":null
+  },
+  {
+    "No":31.0,
+    "Title":"Pet Market",
+    "Academic Year":null
+  },
+  {
+    "No":32.0,
+    "Title":"Tour and Travel Booking System",
+    "Academic Year":null
+  },
+  {
+    "No":33.0,
+    "Title":"Furniture Online Store",
+    "Academic Year":null
+  },
+  {
+    "No":34.0,
+    "Title":"Restaurant Booking System",
+    "Academic Year":null
+  },
+  {
+    "No":35.0,
+    "Title":"Vehicle Washing Management System",
+    "Academic Year":null
+  },
+  {
+    "No":36.0,
+    "Title":"Partking Lots Management System",
+    "Academic Year":null
+  },
+  {
+    "No":37.0,
+    "Title":"Market Platform",
+    "Academic Year":null
+  },
+  {
+    "No":38.0,
+    "Title":"Hotel Booking System",
+    "Academic Year":null
+  },
+  {
+    "No":39.0,
+    "Title":"Blog Management System",
+    "Academic Year":null
+  },
+  {
+    "No":40.0,
+    "Title":"Ribbon:Novel Book Rental Management ",
+    "Academic Year":null
+  },
+  {
+    "No":41.0,
+    "Title":"Movie-tickets Booking System",
+    "Academic Year":null
+  },
+  {
+    "No":42.0,
+    "Title":"Online Banking Management System",
+    "Academic Year":null
+  },
+  {
+    "No":43.0,
+    "Title":"Japanese Language Test System",
+    "Academic Year":null
+  },
+  {
+    "No":44.0,
+    "Title":"Grocery Store Management System",
+    "Academic Year":null
+  },
+  {
+    "No":45.0,
+    "Title":"Car Ticketing System",
+    "Academic Year":null
+  },
+  {
+    "No":46.0,
+    "Title":"Job Portal Website",
+    "Academic Year":null
+  },
+  {
+    "No":47.0,
+    "Title":"Singing Contest Online Voting System",
+    "Academic Year":null
+  },
+  {
+    "No":48.0,
+    "Title":"Loan Management System",
+    "Academic Year":null
+  },
+  {
+    "No":49.0,
+    "Title":"Student Communication System (Studcom)",
+    "Academic Year":null
+  },
+  {
+    "No":50.0,
+    "Title":"Doctor Appointment System",
+    "Academic Year":null
+  },
+  {
+    "No":51.0,
+    "Title":"Online Students Registeration System",
+    "Academic Year":null
+  },
+  {
+    "No":52.0,
+    "Title":"Supply Chain Management System for Selling Livestock Food and Medicine",
+    "Academic Year":null
+  },
+  {
+    "No":53.0,
+    "Title":"Donating with Devotion (Donor Management)",
+    "Academic Year":null
+  },
+  {
+    "No":54.0,
+    "Title":"Donation with Devotion (Monastery Page)",
+    "Academic Year":null
+  },
+  {
+    "No":55.0,
+    "Title":"Donation with Devotion (Event, Finance, Monastery Management)",
+    "Academic Year":null
+  },
+  {
+    "No":56.0,
+    "Title":"Parttime Maid Hiring System",
+    "Academic Year":null
+  },
+  {
+    "No":57.0,
+    "Title":"Online Registration for Ancestral Care Service System",
+    "Academic Year":null
+  },
+  {
+    "No":58.0,
+    "Title":"Gym Management System",
+    "Academic Year":null
+  },
+  {
+    "No":59.0,
+    "Title":"Online Organic Market",
+    "Academic Year":null
+  },
+  {
+    "No":60.0,
+    "Title":"Customized Clothing Order System",
+    "Academic Year":null
+  },
+  {
+    "No":61.0,
+    "Title":"Myanmar Local Food Store",
+    "Academic Year":null
+  },
+  {
+    "No":62.0,
+    "Title":"Dating System",
+    "Academic Year":null
+  },
+  {
+    "No":63.0,
+    "Title":"Flight Ticket Reservation System",
+    "Academic Year":null
+  },
+  {
+    "No":64.0,
+    "Title":"Block Buster: Movies Website",
+    "Academic Year":null
+  },
+  {
+    "No":65.0,
+    "Title":"Cotton Cultivation Website",
+    "Academic Year":null
+  },
+  {
+    "No":66.0,
+    "Title":"Point of Sale System",
+    "Academic Year":null
+  },
+  {
+    "No":67.0,
+    "Title":"Fast Food Delivery System",
+    "Academic Year":null
+  },
+  {
+    "No":68.0,
+    "Title":"Harmonizing Work and Life",
+    "Academic Year":null
+  },
+  {
+    "No":69.0,
+    "Title":"Orchidaceae Family Information Hub",
+    "Academic Year":null
+  },
+  {
+    "No":70.0,
+    "Title":"Swiftlet Farming Website",
+    "Academic Year":null
+  },
+  {
+    "No":71.0,
+    "Title":"Water Supply Management System",
+    "Academic Year":null
+  },
+  {
+    "No":72.0,
+    "Title":"Smart City for Pyay",
+    "Academic Year":null
+  },
+  {
+    "No":73.0,
+    "Title":"Client's Record Keeping System:Insurance",
+    "Academic Year":null
+  },
+  {
+    "No":74.0,
+    "Title":"Laundary Management System",
+    "Academic Year":null
+  },
+  {
+    "No":75.0,
+    "Title":"Computer and Mobile Repair Shop Management System",
+    "Academic Year":null
+  },
+  {
+    "No":76.0,
+    "Title":"Dental Clinic Managemet System",
+    "Academic Year":null
+  },
+  {
+    "No":77.0,
+    "Title":"Shoe Selling System",
+    "Academic Year":null
+  },
+  {
+    "No":78.0,
+    "Title":"Sport Plan Management System",
+    "Academic Year":null
+  },
+  {
+    "No":79.0,
+    "Title":"Construction Material Stores' Trading System",
+    "Academic Year":null
+  },
+  {
+    "No":80.0,
+    "Title":"Online Plant House Shoop System",
+    "Academic Year":null
+  },
+  {
+    "No":81.0,
+    "Title":"Geographical Visualization of Water Resources Changes in Pyay Region ",
+    "Academic Year":null
+  },
+  {
+    "No":82.0,
+    "Title":"AWS Cloud Computing Service",
+    "Academic Year":null
+  },
+  {
+    "No":83.0,
+    "Title":"Web\/Mobile Vulnerability Assessment and Penetration Testing",
+    "Academic Year":null
+  },
+  {
+    "No":84.0,
+    "Title":"Data Import and Testing Module",
+    "Academic Year":null
+  },
+  {
+    "No":85.0,
+    "Title":"Business Implementation and Customer Service",
+    "Academic Year":null
+  },
+  {
+    "No":86.0,
+    "Title":"CCTV IP Security System",
+    "Academic Year":null
+  },
+  {
+    "No":87.0,
+    "Title":"CCTV Analog Security System",
+    "Academic Year":null
+  },
+  {
+    "No":88.0,
+    "Title":"Infrastructure\/System Pentesting",
+    "Academic Year":null
+  },
+  {
+    "No":89.0,
+    "Title":"Operational Strategies for Testing and ",
+    "Academic Year":null
+  },
+  {
+    "No":90.0,
+    "Title":"Infrastructure and Testing Module",
+    "Academic Year":null
+  },
+  {
+    "No":91.0,
+    "Title":"Operation Setting and Customer Service",
+    "Academic Year":null
+  },
+  {
+    "No":92.0,
+    "Title":"FTP and Telnet network configuration",
+    "Academic Year":null
+  },
+  {
+    "No":93.0,
+    "Title":"Network Traffic Analysis (Network Security and Forensic)",
+    "Academic Year":null
+  },
+  {
+    "No":94.0,
+    "Title":"ERP Training and Customer Support",
+    "Academic Year":null
+  },
+  {
+    "No":95.0,
+    "Title":"Academic Assessment System for Primary Levels",
+    "Academic Year":null
+  },
+  {
+    "No":96.0,
+    "Title":"Financial Management System for Government Schools",
+    "Academic Year":null
+  },
+  {
+    "No":97.0,
+    "Title":"Information System of Excavation and Exploratin (Sri Kestra)",
+    "Academic Year":null
+  },
+  {
+    "No":98.0,
+    "Title":"Archaeological Database Management System with GIS Integration",
+    "Academic Year":null
+  },
+  {
+    "No":99.0,
+    "Title":"Non-government Rescue Organizatin Management System",
+    "Academic Year":null
+  },
+  {
+    "No":100.0,
+    "Title":"Management Information System for Traditional Medicine Hospital, Pyay",
+    "Academic Year":null
+  },
+  {
+    "No":101.0,
+    "Title":"MikroTik Certified Netwrok Associated",
+    "Academic Year":null
+  },
+  {
+    "No":102.0,
+    "Title":"No Code Web Builder",
+    "Academic Year":null
+  },
+  {
+    "No":103.0,
+    "Title":"Bee Crafters-Network",
+    "Academic Year":null
+  },
+  {
+    "No":104.0,
+    "Title":"CU Connect",
+    "Academic Year":null
+  },
+  {
+    "No":105.0,
+    "Title":"Agricultural Products Trading",
+    "Academic Year":null
+  },
+  {
+    "No":106.0,
+    "Title":"Online Commercial System",
+    "Academic Year":null
+  },
+  {
+    "No":107.0,
+    "Title":"Let's go to Sri Kestra",
+    "Academic Year":null
+  },
+  {
+    "No":108.0,
+    "Title":"Tuk Tuk - Smart Taxi Service Mobile Applicaitn",
+    "Academic Year":null
+  },
+  {
+    "No":109.0,
+    "Title":"Part-time Educatinal Employment Website for UCSP Students",
+    "Academic Year":null
+  },
+  {
+    "No":110.0,
+    "Title":"Coffee Machine Virtual Interface",
+    "Academic Year":null
+  },
+  {
+    "No":111.0,
+    "Title":"Online Auction System",
+    "Academic Year":null
+  },
+  {
+    "No":112.0,
+    "Title":"Easy Sharing System",
+    "Academic Year":null
+  },
+  {
+    "No":113.0,
+    "Title":"Attendance Management System",
+    "Academic Year":null
+  },
+  {
+    "No":114.0,
+    "Title":"Online Feedback System",
+    "Academic Year":null
+  },
+  {
+    "No":115.0,
+    "Title":"Home Automation System",
+    "Academic Year":null
+  },
+  {
+    "No":116.0,
+    "Title":"Smart Street Light System",
+    "Academic Year":null
+  },
+  {
+    "No":117.0,
+    "Title":"Smart Warehouse System",
+    "Academic Year":null
+  },
+  {
+    "No":118.0,
+    "Title":"Smart Car Parking System",
+    "Academic Year":null
+  },
+  {
+    "No":119.0,
+    "Title":"Automatic Hand Sanitizer",
+    "Academic Year":null
+  },
+  {
+    "No":120.0,
+    "Title":"Myanmar Ethnic Foods Guide System",
+    "Academic Year":null
+  },
+  {
+    "No":121.0,
+    "Title":"Convenience Store Management System",
+    "Academic Year":null
+  },
+  {
+    "No":122.0,
+    "Title":"Healthy Tips by Using Traditional Medicine",
+    "Academic Year":null
+  },
+  {
+    "No":123.0,
+    "Title":"A mini-games Website",
+    "Academic Year":null
+  },
+  {
+    "No":124.0,
+    "Title":"The Conversational AI",
+    "Academic Year":null
+  },
+  {
+    "No":125.0,
+    "Title":"Information Management System on Dam for West Bago Division",
+    "Academic Year":null
+  },
+  {
+    "No":126.0,
+    "Title":"Hospital Information System (HIS) for Pyay Public Hospital",
+    "Academic Year":null
+  },
+  {
+    "No":127.0,
+    "Title":"Information System of Basic Education Schools in Pyay",
+    "Academic Year":null
+  },
+  {
+    "No":128.0,
+    "Title":"Government Staff Housing System",
+    "Academic Year":null
+  },
+  {
+    "No":129.0,
+    "Title":"Vehicle and Driving License Online Booking System for Pyay Distinct",
+    "Academic Year":null
+  },
+  {
+    "No":130.0,
+    "Title":"EcoTourism in Pyay",
+    "Academic Year":null
+  },
+  {
+    "No":131.0,
+    "Title":"Disaster Information System for Pyay",
+    "Academic Year":null
+  },
+  {
+    "No":132.0,
+    "Title":"Staff Service Calculation System for UCSP",
+    "Academic Year":null
+  },
+  {
+    "No":133.0,
+    "Title":"Click and Collect Online Store System",
+    "Academic Year":null
+  },
+  {
+    "No":134.0,
+    "Title":"Food Delivery",
+    "Academic Year":null
+  },
+  {
+    "No":135.0,
+    "Title":"I Stock",
+    "Academic Year":null
+  },
+  {
+    "No":136.0,
+    "Title":"Dolphin Channel",
+    "Academic Year":null
+  },
+  {
+    "No":137.0,
+    "Title":"Nurse Training and Health Care System",
+    "Academic Year":null
+  },
+  {
+    "No":138.0,
+    "Title":"Hostel Agency System",
+    "Academic Year":null
+  },
+  {
+    "No":139.0,
+    "Title":"Online Clothing Store",
+    "Academic Year":null
+  },
+  {
+    "No":140.0,
+    "Title":"Urgent Blood Bank",
+    "Academic Year":null
+  },
+  {
+    "No":141.0,
+    "Title":"Your Stylish System",
+    "Academic Year":null
+  },
+  {
+    "No":142.0,
+    "Title":"Warehouse Stock Management System",
+    "Academic Year":null
+  },
+  {
+    "No":143.0,
+    "Title":"Job Agency System",
+    "Academic Year":null
+  },
+  {
+    "No":144.0,
+    "Title":"Online Student Attendance System",
+    "Academic Year":null
+  },
+  {
+    "No":145.0,
+    "Title":"Cooking Guide",
+    "Academic Year":null
+  },
+  {
+    "No":146.0,
+    "Title":"Shwe Myay Real Estate Website",
+    "Academic Year":null
+  },
+  {
+    "No":147.0,
+    "Title":"Pagodas in Pyay District",
+    "Academic Year":null
+  },
+  {
+    "No":148.0,
+    "Title":"Easy Voting System for University Campaign",
+    "Academic Year":null
+  },
+  {
+    "No":149.0,
+    "Title":"Local Foods and Hotesl in Pyay",
+    "Academic Year":null
+  },
+  {
+    "No":150.0,
+    "Title":"Blogging System for ShweSanDaw Pagoda",
+    "Academic Year":null
+  },
+  {
+    "No":151.0,
+    "Title":"Online Library Management System",
+    "Academic Year":null
+  },
+  {
+    "No":152.0,
+    "Title":"Digital Museum in Sri Kestra",
+    "Academic Year":null
+  },
+  {
+    "No":153.0,
+    "Title":"Rose Petal Onoine Shop System",
+    "Academic Year":null
+  },
+  {
+    "No":154.0,
+    "Title":"Private School Information",
+    "Academic Year":null
+  },
+  {
+    "No":155.0,
+    "Title":"Thiri Khitaya Golf Club Website",
+    "Academic Year":null
+  },
+  {
+    "No":156.0,
+    "Title":"Hospital Online Appointment System",
+    "Academic Year":null
+  },
+  {
+    "No":157.0,
+    "Title":"High Way Bus for Pyay",
+    "Academic Year":null
+  },
+  {
+    "No":158.0,
+    "Title":"Online Student Feedback System",
+    "Academic Year":null
+  },
+  {
+    "No":159.0,
+    "Title":"Online Delivery Service System",
+    "Academic Year":null
+  },
+  {
+    "No":160.0,
+    "Title":"Library Management System in UCSPyay",
+    "Academic Year":null
+  },
+  {
+    "No":161.0,
+    "Title":"Food Delivery Management System",
+    "Academic Year":null
+  },
+  {
+    "No":162.0,
+    "Title":"Web-based Heart Disease Prediction System",
+    "Academic Year":null
+  },
+  {
+    "No":163.0,
+    "Title":"Wireless Training",
+    "Academic Year":null
+  },
+  {
+    "No":164.0,
+    "Title":"Experiences of Wireless Internet",
+    "Academic Year":null
+  },
+  {
+    "No":165.0,
+    "Title":"Wireless Network",
+    "Academic Year":null
+  },
+  {
+    "No":166.0,
+    "Title":"Unlimited Internet from the Sky",
+    "Academic Year":null
+  },
+  {
+    "No":167.0,
+    "Title":"TELECOM Network and FTTH ",
+    "Academic Year":null
+  },
+  {
+    "No":168.0,
+    "Title":"Structure Network and System Implementation",
+    "Academic Year":null
+  },
+  {
+    "No":169.0,
+    "Title":"Network and System Administration",
+    "Academic Year":null
+  },
+  {
+    "No":170.0,
+    "Title":"Broadband Network Fiber to the Home",
+    "Academic Year":null
+  },
+  {
+    "No":171.0,
+    "Title":"Object Detection Using Python",
+    "Academic Year":null
+  },
+  {
+    "No":172.0,
+    "Title":"Experiences of CCTV Security System",
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":null
+  },
+  {
+    "No":null,
+    "Title":null,
+    "Academic Year":" "
+  }
+]
