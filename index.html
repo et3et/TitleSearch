@@ -102,28 +102,18 @@
   let titles = [];
 
   fetch('./titles.json')
-    .then(res => {
-      if (!res.ok) {
-        throw new Error("Failed to load JSON");
-      }
-      return res.json();
-    })
+    .then(res => res.json())
     .then(data => {
-      console.log("Loaded data:", data); // DEBUG
+      console.log("Loaded:", data);
       titles = data;
       displayResults(titles);
-    })
-    .catch(err => {
-      console.error("Error:", err);
-      document.getElementById('noResult').textContent =
-        "Error loading titles.json (check file path or run a server)";
     });
 
   function searchTitles() {
     const query = document.getElementById('searchBox').value.toLowerCase().trim();
 
     const filtered = titles.filter(item =>
-      item.Title.toLowerCase().includes(query)
+      item.Title && item.Title.toLowerCase().includes(query)
     );
 
     displayResults(filtered);
@@ -135,21 +125,21 @@
 
     results.innerHTML = '';
 
-    if (!data || data.length === 0) {
+    if (data.length === 0) {
       noResult.textContent = "No matching titles found.";
       return;
-    } else {
-      noResult.textContent = "";
     }
+
+    noResult.textContent = "";
 
     data.forEach(item => {
       const li = document.createElement('li');
-      li.textContent = item.title;
+      li.textContent = item.Title; // FIX HERE ALSO
       results.appendChild(li);
     });
   }
 
-  document.getElementById('searchBox').addEventListener('keypress', function(e) {
+  document.getElementById('searchBox').addEventListener('keyup', function(e) {
     if (e.key === 'Enter') {
       searchTitles();
     }
