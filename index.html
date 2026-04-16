@@ -98,54 +98,63 @@
     <div id="noResult" class="no-result"></div>
   </div>
 
-  <script>
-    let titles = [];
+ <script>
+  let titles = [];
 
-    // Load data
-    fetch('titles.json')
-      .then(res => res.json())
-      .then(data => {
-        titles = data;
-        displayResults(titles);
-      });
-
-    function searchTitles() {
-      const query = document.getElementById('searchBox').value.toLowerCase().trim();
-
-      const filtered = titles.filter(item =>
-        item.title.toLowerCase().includes(query)
-      );
-
-      displayResults(filtered);
-    }
-
-    function displayResults(data) {
-      const results = document.getElementById('results');
-      const noResult = document.getElementById('noResult');
-
-      results.innerHTML = '';
-
-      if (data.length === 0) {
-        noResult.textContent = "No matching titles found.";
-        return;
-      } else {
-        noResult.textContent = "";
+  fetch('./titles.json')
+    .then(res => {
+      if (!res.ok) {
+        throw new Error("Failed to load JSON");
       }
-
-      data.forEach(item => {
-        const li = document.createElement('li');
-        li.textContent = item.title;
-        results.appendChild(li);
-      });
-    }
-
-    // Optional: press Enter to search
-    document.getElementById('searchBox').addEventListener('keypress', function(e) {
-      if (e.key === 'Enter') {
-        searchTitles();
-      }
+      return res.json();
+    })
+    .then(data => {
+      console.log("Loaded data:", data); // DEBUG
+      titles = data;
+      displayResults(titles);
+    })
+    .catch(err => {
+      console.error("Error:", err);
+      document.getElementById('noResult').textContent =
+        "Error loading titles.json (check file path or run a server)";
     });
-  </script>
+
+  function searchTitles() {
+    const query = document.getElementById('searchBox').value.toLowerCase().trim();
+
+    const filtered = titles.filter(item =>
+      item.Title.toLowerCase().includes(query)
+    );
+
+    displayResults(filtered);
+  }
+
+  function displayResults(data) {
+    const results = document.getElementById('results');
+    const noResult = document.getElementById('noResult');
+
+    results.innerHTML = '';
+
+    if (!data || data.length === 0) {
+      noResult.textContent = "No matching titles found.";
+      return;
+    } else {
+      noResult.textContent = "";
+    }
+
+    data.forEach(item => {
+      const li = document.createElement('li');
+      li.textContent = item.title;
+      results.appendChild(li);
+    });
+  }
+
+  document.getElementById('searchBox').addEventListener('keypress', function(e) {
+    if (e.key === 'Enter') {
+      searchTitles();
+    }
+  });
+</script>
 
 </body>
 </html>
